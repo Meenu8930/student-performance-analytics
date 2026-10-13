@@ -23,6 +23,6 @@ python main.py
 After running main.py, a file named final_report.csv will be generated automatically.
 
 ## Author
-Meenu Sharma
+Meenu 
 MCA - MKM College of Management and IT for Girls, Hodal
 EWB Internship 2026
